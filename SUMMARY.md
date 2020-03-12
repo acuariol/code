@@ -2,7 +2,6 @@
 
 * [简介](README.md)
 
-* [发展](FAZHAN.md)
+* [NPM](npm.md)
 
-* [足球](ZUQIU.md)
 
