@@ -26,5 +26,5 @@ npm config set registry https://registry.npmjs.org
 
 为了完成这个任务需要：
 
-1. 在 package.json 文件所在的目录中执行 npm update 命令。
-2. 执行 npm outdated 命令。不应该有任何输出。
+1. 在 package.json 文件所在的目录中执行` npm update` 命令。
+2. 执行 `npm outdated` 命令。不应该有任何输出。
