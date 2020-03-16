@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 
-* [NPM](npm.md)
+* [npm](npm.md)
+
+* [download](download.md)
 
 
